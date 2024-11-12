@@ -496,10 +496,10 @@ PROJECT
 #project .inner3 {
   width: 900%; /* 퍼블리싱 영역 공간 늘리기 */
   height: 100vh;
-  margin-left: 25%;
+  margin-left: 5%;
   position: fixed;
   left: 0;
-  top: 500px;
+  top: 200px;
 }
 #project .inner3 .container {
   width: 900%; /* 퍼블리싱 영역 공간 늘리기 */
@@ -520,7 +520,7 @@ PROJECT
   margin-right: 0.5%;
 }
 #project .inner3 .container .contentWrap .contentCont {
-  width: 60%;
+  width: 85%;
   display: flex;
   justify-content: space-between;
   align-items: center;
