@@ -490,7 +490,7 @@ PROJECT
 #project {
   background-color: #fff;
   color: #666;
-  height: 750vh; /* 스크롤 길이 늘리기 */
+  height: 800vh; /* 스크롤 길이 늘리기 */
   z-index: 100;
 }
 #project .inner3 {
@@ -502,7 +502,7 @@ PROJECT
   top: 200px;
 }
 #project .inner3 .container {
-  width: 900%; /* 퍼블리싱 영역 공간 늘리기 */
+  width: 750%; /* 퍼블리싱 영역 공간 늘리기 */
   height: 100vh;
   margin-left: 25%;
   position: fixed;
@@ -527,8 +527,7 @@ PROJECT
   font-family: "Noto Sans KR", sans-serif;
 }
 #project .inner3 .container .contentWrap .contentCont article {
-  width: 550px;
-  margin-top: 70px;
+  width: 800px;
 }
 #project .inner3 .container .contentWrap .contentCont article .tit {
   margin-bottom: 30px;
@@ -605,7 +604,7 @@ viewBtn
   font-size: 1.8rem;
   background: #fff;
   color: #444;
-  line-height: 30px;
+  line-height: 29px;
   width: 180px;
   height: 30px;
   border: 1px solid rgba(68, 68, 68, 0.4);
